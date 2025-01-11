@@ -1,0 +1,428 @@
+// !$*UTF8*$!
+{
+	00E6828EFEC88D1A11DB9C8B = {
+		activeBuildStyle = 130F8B95001BDF0A11CA292A;
+		activeExecutable = 2E3D8FF209C243290085C2DF;
+		activeTarget = 2EE1C77009BE57340099DEAE;
+		addToTargets = (
+			2EE1C77009BE57340099DEAE,
+		);
+		breakpoints = (
+			2EA80FBA09C0CF130024C27C,
+		);
+		codeSenseManager = 2EE1C72709BE4D5E0099DEAE;
+		executables = (
+			2E3D8FF209C243290085C2DF,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					200,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					400,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					154,
+					20,
+					48,
+					43,
+					43,
+					20,
+					10,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+					PBXFileDataSource_Path_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					120,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					200,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					220,
+					268,
+					20,
+					48,
+					43,
+					43,
+					226,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Path_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 163774173;
+			PBXWorkspaceStateSaveDate = 163774173;
+		};
+		perUserProjectItems = {
+			2E753B0D09C24702007C9677 = 2E753B0D09C24702007C9677;
+			2E9292AB09C306EE003617BA = 2E9292AB09C306EE003617BA;
+			2EC2BE1909BE5C33007D9258 = 2EC2BE1909BE5C33007D9258;
+			2EC2BE1E09BE5C6C007D9258 = 2EC2BE1E09BE5C6C007D9258;
+			2EC2BE3B09BE5DD4007D9258 = 2EC2BE3B09BE5DD4007D9258;
+			2EC2BE3E09BE5DD4007D9258 = 2EC2BE3E09BE5DD4007D9258;
+			2EC2BE3F09BE5DD4007D9258 = 2EC2BE3F09BE5DD4007D9258;
+			2EC2BE5109BE5F29007D9258 = 2EC2BE5109BE5F29007D9258;
+			2EE1C75409BE54E00099DEAE = 2EE1C75409BE54E00099DEAE;
+			2EE1C78309BE57BF0099DEAE = 2EE1C78309BE57BF0099DEAE;
+			2EE4231809C037A700ABBAF5 = 2EE4231809C037A700ABBAF5;
+			2EE4231A09C037A700ABBAF5 = 2EE4231A09C037A700ABBAF5;
+			2EE4231E09C037A700ABBAF5 = 2EE4231E09C037A700ABBAF5;
+			2EE4232009C037A700ABBAF5 = 2EE4232009C037A700ABBAF5;
+			2EF408F809C2ECFD00E77FE6 = 2EF408F809C2ECFD00E77FE6;
+		};
+		sourceControlManager = 2EE1C72609BE4D5E0099DEAE;
+		userBuildSettings = {
+		};
+	};
+	2E3D8FF209C243290085C2DF = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		cppStopOnCatchEnabled = 0;
+		cppStopOnThrowEnabled = 0;
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		isa = PBXExecutable;
+		libgmallocEnabled = 0;
+		name = "XJ Sync";
+		shlibInfoDictList_v2 = (
+		);
+		sourceDirectories = (
+		);
+	};
+	2E753B0D09C24702007C9677 = {
+		fRef = 2EE1C77809BE57340099DEAE;
+		isa = PBXTextBookmark;
+		name = "Info.plist: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 0;
+	};
+	2E9292AB09C306EE003617BA = {
+		fRef = 6A52677B022AFE3B0CC91562;
+		isa = PBXTextBookmark;
+		name = "xjsync_jvm.cpp: 102";
+		rLen = 0;
+		rLoc = 2224;
+		rType = 0;
+		vrLen = 741;
+		vrLoc = 2134;
+	};
+	2EA80FBA09C0CF130024C27C = {
+		fileReference = 6A52677B022AFE3B0CC91562;
+		functionName = "xjsyncMain()";
+		isa = PBXFileBreakpoint;
+		lineNumber = 57;
+		state = 1;
+	};
+	2EC2BE0D09BE5B95007D9258 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AWTCocoaComponent.h;
+		path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Headers/AWTCocoaComponent.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	2EC2BE1909BE5C33007D9258 = {
+		fRef = 2EC2BE0D09BE5B95007D9258;
+		isa = PBXTextBookmark;
+		name = "AWTCocoaComponent.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 472;
+		vrLoc = 0;
+	};
+	2EC2BE1B09BE5C33007D9258 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = jni.h;
+		path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Headers/jni.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	2EC2BE1E09BE5C6C007D9258 = {
+		fRef = 2EC2BE0D09BE5B95007D9258;
+		isa = PBXTextBookmark;
+		name = "AWTCocoaComponent.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 472;
+		vrLoc = 0;
+	};
+	2EC2BE3B09BE5DD4007D9258 = {
+		fRef = 2EC2BE3C09BE5DD4007D9258;
+		isa = PBXTextBookmark;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 0;
+	};
+	2EC2BE3C09BE5DD4007D9258 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = JavaApplet.h;
+		path = /System/Library/Frameworks/JavaEmbedding.framework/Versions/A/Headers/JavaApplet.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	2EC2BE3E09BE5DD4007D9258 = {
+		fRef = 2EC2BE1B09BE5C33007D9258;
+		isa = PBXTextBookmark;
+		name = "jni.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 795;
+		vrLoc = 0;
+	};
+	2EC2BE3F09BE5DD4007D9258 = {
+		fRef = 2EC2BE4009BE5DD4007D9258;
+		isa = PBXTextBookmark;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 0;
+	};
+	2EC2BE4009BE5DD4007D9258 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = JavaApplet.h;
+		path = /System/Library/Frameworks/JavaEmbedding.framework/Versions/A/Headers/JavaApplet.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	2EC2BE5109BE5F29007D9258 = {
+		fRef = 2EC2BE1B09BE5C33007D9258;
+		isa = PBXTextBookmark;
+		name = "jni.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 795;
+		vrLoc = 0;
+	};
+	2EE1C72609BE4D5E0099DEAE = {
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		isa = PBXSourceControlManager;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	2EE1C72709BE4D5E0099DEAE = {
+		indexTemplatePath = "";
+		isa = PBXCodeSenseManager;
+	};
+	2EE1C75409BE54E00099DEAE = {
+		fRef = 6A52677B022AFE3B0CC91562;
+		isa = PBXTextBookmark;
+		name = "xjsync_jvm.cpp: 28";
+		rLen = 0;
+		rLoc = 1367;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 0;
+	};
+	2EE1C77009BE57340099DEAE = {
+		activeExec = 0;
+		executables = (
+			2E3D8FF209C243290085C2DF,
+		);
+	};
+	2EE1C77809BE57340099DEAE = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 422}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {890, 422}}";
+			sepNavWindowFrame = "{{130, 170}, {987, 722}}";
+		};
+	};
+	2EE1C78309BE57BF0099DEAE = {
+		fRef = 2EE1C77809BE57340099DEAE;
+		isa = PBXTextBookmark;
+		name = "Info.plist: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 790;
+		vrLoc = 0;
+	};
+	2EE4231809C037A700ABBAF5 = {
+		fRef = 2EE4231909C037A700ABBAF5;
+		isa = PBXTextBookmark;
+		name = FindClass;
+		rLen = 9;
+		rLoc = 5073;
+		rType = 0;
+		vrLen = 1007;
+		vrLoc = 4645;
+	};
+	2EE4231909C037A700ABBAF5 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = JNICallbacks.cpp;
+		path = /Developer/Examples/CoreAudio/Java/Native/CAJavaBundle/JNICallbacks.cpp;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	2EE4231A09C037A700ABBAF5 = {
+		fRef = 2EE4231B09C037A700ABBAF5;
+		isa = PBXTextBookmark;
+		name = FindClass;
+		rLen = 9;
+		rLoc = 4436;
+		rType = 0;
+		vrLen = 989;
+		vrLoc = 4040;
+	};
+	2EE4231B09C037A700ABBAF5 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = jni.h;
+		path = /Developer/SDKs/MacOSX10.2.8.sdk/System/Library/Frameworks/JavaVM.framework/Versions/1.3.1/Headers/jni.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	2EE4231E09C037A700ABBAF5 = {
+		fRef = 2EE4231F09C037A700ABBAF5;
+		isa = PBXTextBookmark;
+		name = FindClass;
+		rLen = 9;
+		rLoc = 5073;
+		rType = 0;
+		vrLen = 1007;
+		vrLoc = 4645;
+	};
+	2EE4231F09C037A700ABBAF5 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = JNICallbacks.cpp;
+		path = /Developer/Examples/CoreAudio/Java/Native/CAJavaBundle/JNICallbacks.cpp;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	2EE4232009C037A700ABBAF5 = {
+		fRef = 2EE4232109C037A700ABBAF5;
+		isa = PBXTextBookmark;
+		name = FindClass;
+		rLen = 9;
+		rLoc = 4436;
+		rType = 0;
+		vrLen = 989;
+		vrLoc = 4040;
+	};
+	2EE4232109C037A700ABBAF5 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = jni.h;
+		path = /Developer/SDKs/MacOSX10.2.8.sdk/System/Library/Frameworks/JavaVM.framework/Versions/1.3.1/Headers/jni.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	2EF408F809C2ECFD00E77FE6 = {
+		fRef = 6A52677B022AFE3B0CC91562;
+		isa = PBXTextBookmark;
+		name = "xjsync_jvm.cpp: 50";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 939;
+		vrLoc = 987;
+	};
+	6A52677B022AFE3B0CC91562 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 2296}}";
+			sepNavSelRange = "{2224, 0}";
+			sepNavVisRect = "{{0, 1335}, {1027, 481}}";
+			sepNavWindowFrame = "{{180, 18}, {987, 722}}";
+		};
+	};
+}

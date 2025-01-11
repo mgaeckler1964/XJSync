@@ -1,0 +1,4 @@
+cp xjsync.bat "../../Object/XJ Sync.app"
+chmod +x xjsync
+cp xjsync "../../Object/XJ Sync.app"
+chmod +x "../../Object/XJ Sync.app/xjsync"

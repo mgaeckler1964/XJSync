@@ -1,0 +1,2 @@
+cd Contents/Resources/Java
+java -classpath XJsync.jar XJsyncApp $* &

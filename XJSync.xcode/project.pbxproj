@@ -1,0 +1,221 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 39;
+	objects = {
+		00E6828EFEC88D1A11DB9C8B = {
+			buildSettings = {
+			};
+			buildStyles = (
+				130F8B95001BDF0A11CA292A,
+				130F8B96001BDF0A11CA292A,
+			);
+			hasScannedForEncodings = 1;
+			isa = PBXProject;
+			mainGroup = 00E6828FFEC88D1A11DB9C8B;
+			productRefGroup = 00E6828FFEC88D1A11DB9C8B;
+			projectDirPath = "";
+			targets = (
+				2EE1C77009BE57340099DEAE,
+			);
+		};
+		00E6828FFEC88D1A11DB9C8B = {
+			children = (
+				2EDB8AAF09C2BA6300BD8E8F,
+				2EA80FA409C0CDCF0024C27C,
+				2EC2BDF409BE5AFB007D9258,
+				6A52677B022AFE3B0CC91562,
+				2EE1C77809BE57340099DEAE,
+				2E3D8FF109C243290085C2DF,
+			);
+			isa = PBXGroup;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//000
+//001
+//002
+//003
+//004
+//130
+//131
+//132
+//133
+//134
+		130F8B95001BDF0A11CA292A = {
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = /System/Library/Frameworks;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				HEADER_SEARCH_PATHS = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Headers;
+				ZERO_LINK = YES;
+			};
+			isa = PBXBuildStyle;
+			name = Development;
+		};
+		130F8B96001BDF0A11CA292A = {
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				ZERO_LINK = NO;
+			};
+			isa = PBXBuildStyle;
+			name = Deployment;
+		};
+//130
+//131
+//132
+//133
+//134
+//2E0
+//2E1
+//2E2
+//2E3
+//2E4
+		2E3D8FF109C243290085C2DF = {
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			isa = PBXFileReference;
+			path = XJSync.app;
+			refType = 3;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		2EA80FA409C0CDCF0024C27C = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.icns;
+			path = XJSync.icns;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2EA80FA509C0CDCF0024C27C = {
+			fileRef = 2EA80FA409C0CDCF0024C27C;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		2EC2BDF409BE5AFB007D9258 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = JavaVM.framework;
+			path = /System/Library/Frameworks/JavaVM.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		2EC2BE1C09BE5C41007D9258 = {
+			fileRef = 2EC2BDF409BE5AFB007D9258;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		2EDB8AAF09C2BA6300BD8E8F = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.icns;
+			path = syncDbLogo.icns;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2EDB8AB009C2BA6300BD8E8F = {
+			fileRef = 2EDB8AAF09C2BA6300BD8E8F;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		2EE1C77009BE57340099DEAE = {
+			buildPhases = (
+				2EE1C77209BE57340099DEAE,
+				2EE1C77309BE57340099DEAE,
+				2EE1C77509BE57340099DEAE,
+				2EE1C77709BE57340099DEAE,
+			);
+			buildRules = (
+			);
+			buildSettings = {
+				INFOPLIST_FILE = Info.plist;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = XJSync;
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas";
+				WRAPPER_EXTENSION = app;
+			};
+			dependencies = (
+			);
+			isa = PBXNativeTarget;
+			name = "XJ Sync";
+			productInstallPath = "$(USER_APPS_DIR)";
+			productName = XJSync;
+			productReference = 2E3D8FF109C243290085C2DF;
+			productType = "com.apple.product-type.application";
+		};
+		2EE1C77209BE57340099DEAE = {
+			buildActionMask = 2147483647;
+			files = (
+				2EA80FA509C0CDCF0024C27C,
+				2EDB8AB009C2BA6300BD8E8F,
+			);
+			isa = PBXResourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2EE1C77309BE57340099DEAE = {
+			buildActionMask = 2147483647;
+			files = (
+				2EE1C77409BE57340099DEAE,
+			);
+			isa = PBXSourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2EE1C77409BE57340099DEAE = {
+			fileRef = 6A52677B022AFE3B0CC91562;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		2EE1C77509BE57340099DEAE = {
+			buildActionMask = 2147483647;
+			files = (
+				2EC2BE1C09BE5C41007D9258,
+			);
+			isa = PBXFrameworksBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2EE1C77709BE57340099DEAE = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			isa = PBXRezBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2EE1C77809BE57340099DEAE = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.xml;
+			path = Info.plist;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//2E0
+//2E1
+//2E2
+//2E3
+//2E4
+//6A0
+//6A1
+//6A2
+//6A3
+//6A4
+		6A52677B022AFE3B0CC91562 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			path = xjsync_jvm.cpp;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+	};
+	rootObject = 00E6828EFEC88D1A11DB9C8B;
+}
